@@ -1,2 +1,2 @@
 # Obesity-factor-analysis
-Code used for my bachelor's thesis named "Obesity factor analysis using statistical methods". 
+Python code for my bachelor's thesis titled 'Obesity Factor Analysis Using Statistical Methods,' developed using Jupyter Notebook.
