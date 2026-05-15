@@ -7,9 +7,9 @@ Libraries used for the analysis are NumPy, statistsics and SciPy. Visalisations 
 ### Dataset contains data about these factors:
 
 ### 1. Body Mass Index (BMI)
-* Underweight
-* Normal
-* Obese
+  - Underweight
+  - Normal
+  - Obese
 
 ### 2. Eating habits
 
